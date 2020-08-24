@@ -1,0 +1,13 @@
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.exe
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.deps.json
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.runtimeconfig.json
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.runtimeconfig.dev.json
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.dll
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\bin\Debug\netcoreapp3.1\DotNetCoreSample.pdb
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.csprojAssemblyReference.cache
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.AssemblyInfo.cs
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.dll
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.pdb
+C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.genruntimeconfig.cache
