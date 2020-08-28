@@ -6,7 +6,12 @@ namespace DotNetCoreSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Delegate.GreetingDelegate Eng,Chi;
+            Eng=Delegate.Program.EnglishGreeting;
+            Chi=Delegate.Program.ChineseGreeting;
+            Delegate.Program.GreetPeople("hello",Eng);
+            
+            
         }
     }
 }
