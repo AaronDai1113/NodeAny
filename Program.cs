@@ -6,11 +6,12 @@ namespace DotNetCoreSample
     {
         static void Main(string[] args)
         {
-            Food food=Customer.Cook("A"); 
-            Food food1=Customer.Cook("B");            
-            
-            food.Print();
+            Food food1=FoodSimpleFactory.CreateFood("A");
             food1.Print();
+
+            Food food2=FoodSimpleFactory.CreateFood("B");
+            food2.Print();
+            Console.Read();
         }
     }
 }
