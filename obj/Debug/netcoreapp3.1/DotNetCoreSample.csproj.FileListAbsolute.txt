@@ -11,3 +11,16 @@ C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSa
 C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.dll
 C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.pdb
 C:\Users\aaron\Desktop\dot\DotNetCoreSample\obj\Debug\netcoreapp3.1\DotNetCoreSample.genruntimeconfig.cache
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.exe
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.deps.json
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.runtimeconfig.json
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.runtimeconfig.dev.json
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.dll
+C:\Users\daijing\Desktop\dot\NodeAny\bin\Debug\netcoreapp3.1\DotNetCoreSample.pdb
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.csprojAssemblyReference.cache
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.AssemblyInfoInputs.cache
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.AssemblyInfo.cs
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.dll
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.pdb
+C:\Users\daijing\Desktop\dot\NodeAny\obj\Debug\netcoreapp3.1\DotNetCoreSample.genruntimeconfig.cache
