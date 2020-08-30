@@ -1,3 +1,3 @@
 "use strict";
-console.log('hello ts');
-var str = "hello jim";
+var hello = "hello world Jim";
+console.log(hello);

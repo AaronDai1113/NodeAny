@@ -1,3 +1,2 @@
-console.log('hello ts')
-
-var str:string="hello jim"
+const hello:string="hello world Jim"
+console.log(hello)
