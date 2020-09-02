@@ -7,23 +7,20 @@
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 </head>
 <body>
-    <div id="vue_det">
-        <h1>site : {{site}}</h1>
-        <h1>url :{{url}}</h1>
-        <h1>{{details()}}</h1>
+    <div id="app">
+        {{5+5}}<br>
+        {{ ok ? 'YES' : 'NO'}}<br>
+        {{ message.split('').reverse().join('')}}
+        <div v-blind:id="'list-'+id">my course</div>
     </div>
-    <script type="text/javascript">
-        var vm=new Vue({
-            el:'#vue_det',
-            data:{
-                site:"my course",
-                url:"www.baidu.com",
-                alexa:"10000"
-            },
-            methods:{
-                details:function(){
-                    return this.site+"it's my dream";
-                }
+
+    <script>
+        new Vue({
+            el: 'app',
+            data: {
+                ok: True,
+                message: 'Mymy',
+                id: 1
             }
         })
     </script>
