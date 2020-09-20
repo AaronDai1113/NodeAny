@@ -12,8 +12,8 @@ namespace Delegate{
             Console.WriteLine("早上好，"+name);
         }
 
-        public static void GreetPeople(string name,GreetingDelegate MakeGreeting){
-            MakeGreeting(name);
-        }
+        // public static void GreetPeople(string name,GreetingDelegate MakeGreeting){
+        //     MakeGreeting(name);
+        // }
     }
 }
