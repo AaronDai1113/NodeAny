@@ -1,4 +1,5 @@
 ﻿using System;
+using Demo;
 
 namespace DotNetCoreSample
 {
@@ -30,10 +31,11 @@ namespace DotNetCoreSample
         }
         static void Main(string[] args)
         {
-            int[] values={1,2,3};
-            Util.Transform(values,Square);
-            foreach(int i in values)
-                Console.Write(i+" ");
+            // int[] values={1,2,3};
+            // Util.Transform(values,Square);
+            // foreach(int i in values)
+            //     Console.Write(i+" ");
+            
         }
     }
 }

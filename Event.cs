@@ -29,6 +29,9 @@ namespace Demo{
             get {return price;}
             set{
                 if(price==value) return;
+                decimal oldPrice=price;
+                price=value;
+                OnPriceChanged(new PriceChangedEventArgs(oldPrice,price));
             }
         }
     }
