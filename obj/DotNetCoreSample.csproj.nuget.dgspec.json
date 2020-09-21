@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\DotNetCoreSample.csproj": {}
+    "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\DotNetCoreSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\DotNetCoreSample.csproj": {
+    "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\DotNetCoreSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\DotNetCoreSample.csproj",
+        "projectUniqueName": "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\DotNetCoreSample.csproj",
         "projectName": "DotNetCoreSample",
-        "projectPath": "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\DotNetCoreSample.csproj",
-        "packagesPath": "C:\\Users\\daijing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\obj\\",
+        "projectPath": "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\DotNetCoreSample.csproj",
+        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daijing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

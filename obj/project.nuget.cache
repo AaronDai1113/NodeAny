@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+rJ2NdJNdSHNn1BpQMwwURKg5uxW4FlBGbwzlKIJvE+LiRqsAr/+TbxU3h8APx4kEk9kl/8Dq0chcyn4GSDAw==",
+  "dgSpecHash": "cNrYZC8FcwA9y+0NQsf2kMLpr151wMpLwFkzQtg4PuXPBgGXCBmyww3g9otzQKd5Hxp3IcMzqeJ6h7RY7p72IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daijing\\Desktop\\dot\\NodeAny\\DotNetCoreSample.csproj",
+  "projectFilePath": "C:\\Users\\aaron\\Desktop\\dot\\DotNetCoreSample\\DotNetCoreSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
